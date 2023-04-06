@@ -6,13 +6,14 @@ This is a project that demonstrates the use of LSTM (Long Short-Term Memory) mod
 ## Installation
 The following libraries are required to run this project:
 
-  tensorflow
-  pandas
-  matplotlib
-  sklearn
-  numpy
-  gradio
-  jinja2
+  tensorflow  
+  pandas  
+  matplotlib  
+  sklearn  
+  numpy  
+  gradio  
+  jinja2  
+
 You can install them using pip with the following command: pip install tensorflow pandas matplotlib sklearn numpy gradio jinja2
 
 ## Usage
